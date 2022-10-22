@@ -1,5 +1,25 @@
-[{"id_monu":1, "nom_monu":"Cathedrale Saint-Etienne", "adresse":"Place d'Armes", "Latitude":49.1203081, "Longitude":6.1736087, "Importance":1},
- {"id_monu":2, "nom_monu":"IUT de Metz", "adresse":"IUT de Metz", "Latitude":49.120191, "Longitude":6.1616238, "Importance":1},
- {"id_monu":3, "nom_monu":"Temple Neuf", "adresse":"Place de la Com\u00e9die", "Latitude":49.120691, "Longitude":6.1699988, "Importance":1},
- {"id_monu":4, "nom_monu":"Place de la Republique", "adresse":"Place de la Republique", "Latitude":49.115191, "Longitude":6.1704988, "Importance":1},
- {"id_monu":5, "nom_monu":"Plan d\u2019eau", "adresse":"Plan d'eau", "Latitude":49.1144581, "Longitude":6.1636167, "Importance":2}]
+{
+  "lieux": [
+   {
+      "id":"635043b42d11004e7975d9ce",
+      "nom":"Super hero squad",
+      "description":"Metro City",
+      "longitude":"6.15",
+      "latitude":"49.35"
+   },
+   {
+      "id":"6350445c2d11004e7975d9de",
+      "nom":"Thionville",
+      "description":"C'est une ville proche du Luxembourg. Il y aussi une centrale nucléaire. Et un McDo. Et un 2 BK. Et un KFC. Et un Carrefour. Et un Leclerc.",
+      "longitude":"6.157572",
+      "latitude":"49.357731"
+   },
+    {
+      "id":"1234KRflsfsklsldskfkdgkf57RPZ",
+      "nom":"Ado",
+      "description":"その傲岸無礼な慟哭を",
+      "longitude":"6.15",
+      "latitude":"49.33"
+   }
+  ]
+}
